@@ -1,0 +1,20 @@
+{
+  "name": "merge-rebase-conflicts",
+  "version": "1.0.0",
+  "description": "Does rebase have more conflicts than merge?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ywarezk/merge-rebase-conflicts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ywarezk/merge-rebase-conflicts/issues"
+  },
+  "homepage": "https://github.com/ywarezk/merge-rebase-conflicts#readme"
+}
