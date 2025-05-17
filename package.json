@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/ywarezk/merge-rebase-conflicts/issues"
   },
-  "homepage": "https://github.com/ywarezk/merge-rebase-conflicts#readme"
+  "homepage": "https://github.com/ywarezk/merge-rebase-conflicts#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "typeorm": "^0.3.24"
+  }
 }
